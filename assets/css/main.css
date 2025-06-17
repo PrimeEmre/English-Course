@@ -241,6 +241,15 @@ tr:nth-child(even) {
 tr:hover {
 	background-color: #3a3a4a;
 }
+.craft-move{
+font-size: 2rem;
+margin-bottom: .5rem;
+font-weight: 900;
+}
+.litery-devices{
+margin-left: 2.5rem;
+font-size: 1.5rem;
+}
 
 /* Container */
 
