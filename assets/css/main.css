@@ -250,6 +250,31 @@ font-weight: 900;
 margin-left: 2.5rem;
 font-size: 1.5rem;
 }
+.PPE-steps{
+	font-size: 2rem;
+	margin-bottom: 1rem;
+	font-weight: 900;
+}
+.PPE-list{
+	line-height: 2rem;
+	font-size: 1.5rem;
+}
+.example-PPE{
+	font-size: 2rem;
+	margin-bottom: 1rem;
+	font-weight: 900;
+}
+.example-PPE-text{
+	font-size: 1.5rem;
+}
+.example-PPE-text b{
+	font-weight: 900;
+	margin-bottom:2rem;
+}
+.inro-pragrath{
+	font-size: 2rem;
+	font-weight: 900;
+}
 
 /* Container */
 
